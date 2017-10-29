@@ -1,0 +1,2 @@
+# test_milestone_as_deadline
+GitHub Issues は締切が設定できないからタスク管理には向かないが Milestone 使えば実現できるかもとひらめいた
